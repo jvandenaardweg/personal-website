@@ -32,8 +32,9 @@ social_media:
   # dribbble: your_username
   # facebook: your_username
   # dribbble: your_username
-  linkedin: jvandenaardweg
-  stackoverflow: 3194288
+  linkedin: "jvandenaardweg"
+  stackoverflow: "3194288"
+  medium: "@jvandenaardweg"
   # twitter: your_username
   # youtube: your_username
 

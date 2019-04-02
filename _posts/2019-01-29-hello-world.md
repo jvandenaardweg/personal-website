@@ -1,75 +1,13 @@
 ---
-title: "Welcome to Jekyll!"
+title: "How to easily manage connection status updates in React Native"
 published: true
 ---
 
-**Hello world**, this is my first Jekyll blog post.
+Every now and then I like to create and explore technologies I do not have the time for in my daily life as a Freelance Frontend Developer. Lately, I’m exploring React Native and taking a dive in some new tools and APIs.
 
-I hope you like it!
+But building a native app is a little bit different than building a web app. I recently got into a scenario where the user has no active internet connection.
 
-# Highlighter
-## Ruby
-```ruby
-def show
-  puts "Outputting a very lo-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-ong lo-o-o-o-o-o-o-o-o-o-o-o-o-o-o-o-ong line"
-  @widget = Widget(params[:id])
-  respond_to do |format|
-    format.html # show.html.erb
-    format.json { render json: @widget }
-  end
-end
-```
+How are we going to inform the user our app has limited capabilities then?
 
-## Php
-```php
-<?php
-  print("Hello {$world}");
-?>
-```
+This post is written by me and published on the FreeCodeCamp blog with over 500.000 readers: [How to easily manage connection status updates in React Native](https://medium.freecodecamp.org/easily-manage-connection-status-updates-in-react-native-28c9b4b0647f)
 
-## Java
-```java
-public class java {
-    public static void main(String[] args) {
-        System.out.println("Hello World");
-    }
-}
-```
-
-## HTML
-```html
-<html>
-  <head><title>Title!</title></head>
-  <body>
-    <p id="foo">Hello, World!</p>
-    <script type="text/javascript">var a = 1;</script>
-    <style type="text/css">#foo { font-weight: bold; }</style>
-  </body>
-</html>
-```
-
-## Console
-```console
-# prints "hello, world" to the screen
-~# echo Hello, World
-Hello, World
-
-# don't run this
-~# rm -rf --no-preserve-root /
-```
-
-## Css
-```css
-body {
-    font-size: 12pt;
-    background: #fff url(temp.png) top left no-repeat;
-}
-```
-
-## Yaml
-```yaml
----
-one: Mark McGwire
-two: Sammy Sosa
-three: Ken Griffey
-```
